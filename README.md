@@ -31,4 +31,4 @@ If you want to run this notebook locally later, install Python + Jupyter, then:
 pip install biopython py3Dmol
 ```
 ## Attendees:
-raja2
+Peter the Anteater
