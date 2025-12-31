@@ -4,7 +4,7 @@ This repo contains a short, beginner-friendly demo notebook for visualizing biom
 
 ## Open the notebook in Google Colab (recommended)
 
-No installs required — click to launch:
+No installs required, click to launch:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AdhithJCB/bdmc-demo/blob/main/notebooks/01_biomolecular_visualization.ipynb)
 
